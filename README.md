@@ -18,5 +18,3 @@ The objective of this project is to provide valuable, on-demand insights that ca
 - **Power BI**: For data visualization and dashboard creation.
 - **SQL**: For data querying and management.
 - **PowerPoint**: For creating professional presentations to communicate insights.
-
-Thanks for visiting my repository!
